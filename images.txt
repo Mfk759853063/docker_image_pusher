@@ -8,5 +8,4 @@ nginx
 rancher/rancher:latest
 percona/pmm-server:2
 percona/pmm-client:2
-ghcr.io/huolalatech/page-spy-web:latest
 emqx/emqx:5.3.2
