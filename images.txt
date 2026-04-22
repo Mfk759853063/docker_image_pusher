@@ -10,4 +10,5 @@
 #percona/pmm-client:2
 #emqx/emqx:5.3.2
 #ghcr.io/huolalatech/page-spy-web:latest
-quay.io/prometheus/node-exporter:latest
+#quay.io/prometheus/node-exporter:latest
+heidiks/rabbitmq-delayed-message-exchange:latest
