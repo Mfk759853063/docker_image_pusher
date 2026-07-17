@@ -11,4 +11,5 @@
 #emqx/emqx:5.3.2
 #ghcr.io/huolalatech/page-spy-web:latest
 #quay.io/prometheus/node-exporter:latest
-heidiks/rabbitmq-delayed-message-exchange:latest
+#heidiks/rabbitmq-delayed-message-exchange:latest
+zookeeper:3.6.3
