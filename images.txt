@@ -12,4 +12,5 @@
 #ghcr.io/huolalatech/page-spy-web:latest
 #quay.io/prometheus/node-exporter:latest
 #heidiks/rabbitmq-delayed-message-exchange:latest
+
 zookeeper:3.6.3
